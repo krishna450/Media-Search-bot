@@ -26,9 +26,9 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+**Hi,{}**
 
-Here you can search files in inline mode. Just press following buttons and start searching.
+`ഇതൊരു മലായളം ക്രിസ്ത്യൻ പാട്ടുകൾ കണ്ടെത്താൻ ഉള്ള ബോട്ട് ആണ്. നിങ്ങൾക്ക് ഈ ബോട്ട് വച്ച് നിങ്ങൾക്ക് ആവശ്യം ആയ ക്രിസ്ത്യൻ പാട്ടുകൾ കണ്ടെത്താൻ സാധിക്കും.....`
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
