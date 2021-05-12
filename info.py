@@ -28,7 +28,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 START_MSG = """
 **Hi,{}**
 
-`ഇതൊരു മലായളം ക്രിസ്ത്യൻ പാട്ടുകൾ കണ്ടെത്താൻ ഉള്ള ബോട്ട് ആണ്. നിങ്ങൾക്ക് ഈ ബോട്ട് വച്ച് നിങ്ങൾക്ക് ആവശ്യം ആയ ക്രിസ്ത്യൻ പാട്ടുകൾ കണ്ടെത്താൻ സാധിക്കും.....`
+സിനിമകൾ തിരയുന്നതിനായുള്ള ബോട്ടാണ് ഇത്.
+നിങ്ങൾ തിരയുന്ന സിനിമ ഇതിൽ ലഭിച്ചില്ലെങ്കിൽ അഡ്മിനെ അറിയിക്കുക. » @CKfeedbackBOT
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
